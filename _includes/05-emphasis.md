@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* _drinking beer_
+* *drinking beer*
+* **making beer**
+* __making beer__
+* _making **beer** _
